@@ -97,7 +97,7 @@ In this directory we have created a Reddits Flair Detector. Here we are not lett
 
 <details>
 <summary>Recommendation System</summary>
-
+<br>
 - <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Movie%20Recomendation">15. Movie Recommendation</a><br>
   In this directory we have created a Movie Recommendation system using the concept of content based recommendation system. The dataset used is very large and hence it cannot be directly Uploaded into GitHub. But you can download the data directly from <a href="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip">here</a>. Unzip the data and use the respected csv files.<br>
 
